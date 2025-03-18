@@ -78,7 +78,7 @@ section h3 {
   color: #1a237e;
 }
 
-.activity-card p:last-child {
+#participants {
   font-style: italic;
   color: #555;
   background-color: #f0f0f0;
